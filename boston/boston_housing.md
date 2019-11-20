@@ -24,7 +24,8 @@ import pandas 用于做数据分析
 ![display_score](./display_score.png)
 
 ## 7.绘图
-用matplotlib.pyplot绘图
+用matplotlib.pyplot绘图进行可视化
 
 展示预测结果及其精确度
+
 ![boston](./boston.png) 
